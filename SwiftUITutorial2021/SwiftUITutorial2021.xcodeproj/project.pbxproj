@@ -18,6 +18,7 @@
 		22ABFFA7262BB85B00E88CBD /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22ABFFA5262BB85B00E88CBD /* Color+Codable.swift */; };
 		22ABFFBA262BB9C100E88CBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22ABFFB9262BB9C100E88CBD /* Assets.xcassets */; };
 		22B4AC8D262BEDE600B87217 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B4AC8C262BEDE600B87217 /* DetailView.swift */; };
+		22B4AC93262BF66600B87217 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B4AC92262BF66600B87217 /* EditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		22ABFFA5262BB85B00E88CBD /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 		22ABFFB9262BB9C100E88CBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22B4AC8C262BEDE600B87217 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		22B4AC92262BF66600B87217 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				22ABFF99262BB34C00E88CBD /* CardView.swift */,
 				22ABFF9E262BB73B00E88CBD /* ScrumsView.swift */,
 				22B4AC8C262BEDE600B87217 /* DetailView.swift */,
+				22B4AC92262BF66600B87217 /* EditView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -292,6 +295,7 @@
 			files = (
 				22ABFF5A262AE49300E88CBD /* MeetingView.swift in Sources */,
 				22ABFF89262BB1E600E88CBD /* DailyScrum.swift in Sources */,
+				22B4AC93262BF66600B87217 /* EditView.swift in Sources */,
 				22ABFF9A262BB34C00E88CBD /* CardView.swift in Sources */,
 				22B4AC8D262BEDE600B87217 /* DetailView.swift in Sources */,
 				22ABFFA7262BB85B00E88CBD /* Color+Codable.swift in Sources */,
